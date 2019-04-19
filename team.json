@@ -1,0 +1,394 @@
+[
+  {
+    "tla": "TFC",
+    "name": "Toulouse FC"
+  },
+  {
+    "tla": "SMC",
+    "name": "SM Caen"
+  },
+  {
+    "tla": "OM",
+    "name": "Marseille"
+  },
+  {
+    "tla": "MON",
+    "name": "Montpellier"
+  },
+  {
+    "tla": "LOSC",
+    "name": "Lille OSC"
+  },
+  {
+    "tla": "OGCN",
+    "name": "OGC Nice"
+  },
+  {
+    "tla": "OL",
+    "name": "Olympique Lyon"
+  },
+  {
+    "tla": "PSG",
+    "name": "Paris saint-germain"
+  },
+  {
+    "tla": "BOR",
+    "name": "Bordeaux"
+  },
+  {
+    "tla": "STE",
+    "name": "Saint-\u00c9tienne"
+  },
+  {
+    "tla": "DFC",
+    "name": "Dijon FCO"
+  },
+  {
+    "tla": "SRF",
+    "name": "Stade Rennais"
+  },
+  {
+    "tla": "ASC",
+    "name": "Amiens SC"
+  },
+  {
+    "tla": "ANG",
+    "name": "Angers SCO"
+  },
+  {
+    "tla": "EAG",
+    "name": "EA Guingamp"
+  },
+  {
+    "tla": "NAN",
+    "name": "FC Nantes"
+  },
+  {
+    "tla": "SDR",
+    "name": "Stade de Reims"
+  },
+  {
+    "tla": "ASM",
+    "name": "AS Monaco"
+  },
+  {
+    "tla": "N\u00ceM",
+    "name": "N\u00eemes Ol."
+  },
+  {
+    "tla": "RCS",
+    "name": "RC Strasbourg"
+  },
+  {
+    "tla": "TSG",
+    "name": "Hoffenheim"
+  },
+  {
+    "tla": "B04",
+    "name": "Leverkusen"
+  },
+  {
+    "tla": "BVB",
+    "name": "Dortmund"
+  },
+  {
+    "tla": "FCB",
+    "name": "Bayern"
+  },
+  {
+    "tla": "S04",
+    "name": "Schalke"
+  },
+  {
+    "tla": "H96",
+    "name": "Hannover"
+  },
+  {
+    "tla": "BSC",
+    "name": "Hertha BSC"
+  },
+  {
+    "tla": "VFB",
+    "name": "Stuttgart"
+  },
+  {
+    "tla": "WOB",
+    "name": "Wolfsburg"
+  },
+  {
+    "tla": "SVW",
+    "name": "Bremen"
+  },
+  {
+    "tla": "FCN",
+    "name": "N\u00fcrnberg"
+  },
+  {
+    "tla": "M05",
+    "name": "Mainz"
+  },
+  {
+    "tla": "FCA",
+    "name": "Augsburg"
+  },
+  {
+    "tla": "SCF",
+    "name": "Freiburg"
+  },
+  {
+    "tla": "BMG",
+    "name": "M'gladbach"
+  },
+  {
+    "tla": "SGE",
+    "name": "Frankfurt"
+  },
+  {
+    "tla": "F95",
+    "name": "D\u00fcsseldorf"
+  },
+  {
+    "tla": "RBL",
+    "name": "RB Leipzig"
+  },
+  {
+    "tla": "ATH",
+    "name": "Athletic"
+  },
+  {
+    "tla": "ATM",
+    "name": "Atletico"
+  },
+  {
+    "tla": "ESP",
+    "name": "Espanyol"
+  },
+  {
+    "tla": "FCB",
+    "name": "Barcelona"
+  },
+  {
+    "tla": "GET",
+    "name": "Getafe"
+  },
+  {
+    "tla": "RMA",
+    "name": "Real Madrid"
+  },
+  {
+    "tla": "RAY",
+    "name": "Rayo Vallecano"
+  },
+  {
+    "tla": "LEV",
+    "name": "Levante"
+  },
+  {
+    "tla": "BET",
+    "name": "Real Betis"
+  },
+  {
+    "tla": "RSO",
+    "name": "Real Sociedad"
+  },
+  {
+    "tla": "VIL",
+    "name": "Villarreal"
+  },
+  {
+    "tla": "VAL",
+    "name": "Valencia"
+  },
+  {
+    "tla": "VLD",
+    "name": "Valladolid"
+  },
+  {
+    "tla": "ALA",
+    "name": "Alav\u00e9s"
+  },
+  {
+    "tla": "EIB",
+    "name": "Eibar"
+  },
+  {
+    "tla": "GIR",
+    "name": "Girona"
+  },
+  {
+    "tla": "HUE",
+    "name": "Huesca"
+  },
+  {
+    "tla": "CEL",
+    "name": "Celta"
+  },
+  {
+    "tla": "SEV",
+    "name": "Sevilla FC"
+  },
+  {
+    "tla": "LEG",
+    "name": "Legan\u00e9s"
+  },
+  {
+    "tla": "MIL",
+    "name": "Milan"
+  },
+  {
+    "tla": "FIO",
+    "name": "Fiorentina"
+  },
+  {
+    "tla": "ROM",
+    "name": "Roma"
+  },
+  {
+    "tla": "ATA",
+    "name": "Atalanta"
+  },
+  {
+    "tla": "BOL",
+    "name": "Bologna"
+  },
+  {
+    "tla": "CAG",
+    "name": "Cagliari"
+  },
+  {
+    "tla": "CHI",
+    "name": "Chievo"
+  },
+  {
+    "tla": "GEN",
+    "name": "Genoa"
+  },
+  {
+    "tla": "INT",
+    "name": "Inter"
+  },
+  {
+    "tla": "JUV",
+    "name": "Juve"
+  },
+  {
+    "tla": "LAZ",
+    "name": "Lazio"
+  },
+  {
+    "tla": "PAR",
+    "name": "Parma"
+  },
+  {
+    "tla": "NAP",
+    "name": "Napoli"
+  },
+  {
+    "tla": "UDI",
+    "name": "Udinese"
+  },
+  {
+    "tla": "EMP",
+    "name": "Empoli"
+  },
+  {
+    "tla": "FRO",
+    "name": "Frosinone"
+  },
+  {
+    "tla": "SAS",
+    "name": "Sassuolo"
+  },
+  {
+    "tla": "SAM",
+    "name": "Sampdoria"
+  },
+  {
+    "tla": "TOR",
+    "name": "Torino"
+  },
+  {
+    "tla": "SPA",
+    "name": "SPAL 2013"
+  },
+  {
+    "tla": "ARS",
+    "name": "Arsenal"
+  },
+  {
+    "tla": "CHE",
+    "name": "Chelsea"
+  },
+  {
+    "tla": "EVE",
+    "name": "Everton"
+  },
+  {
+    "tla": "FUL",
+    "name": "Fulham"
+  },
+  {
+    "tla": "LIV",
+    "name": "Liverpool"
+  },
+  {
+    "tla": "MCI",
+    "name": "Man City"
+  },
+  {
+    "tla": "MUN",
+    "name": "Man United"
+  },
+  {
+    "tla": "NEW",
+    "name": "Newcastle"
+  },
+  {
+    "tla": "TOT",
+    "name": "Tottenham"
+  },
+  {
+    "tla": "WOL",
+    "name": "Wolverhampton"
+  },
+  {
+    "tla": "BUR",
+    "name": "Burnley"
+  },
+  {
+    "tla": "LEI",
+    "name": "Leicester City"
+  },
+  {
+    "tla": "SOU",
+    "name": "Southampton"
+  },
+  {
+    "tla": "WAT",
+    "name": "Watford"
+  },
+  {
+    "tla": "CRY",
+    "name": "Crystal Palace"
+  },
+  {
+    "tla": "HUD",
+    "name": "Huddersfield"
+  },
+  {
+    "tla": "BHA",
+    "name": "Brighton Hove"
+  },
+  {
+    "tla": "WHU",
+    "name": "West Ham"
+  },
+  {
+    "tla": "CAR",
+    "name": "Cardiff"
+  },
+  {
+    "tla": "BOU",
+    "name": "Bournemouth"
+  }
+]

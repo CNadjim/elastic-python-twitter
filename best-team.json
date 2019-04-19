@@ -1,0 +1,62 @@
+[
+  {
+    "tla": "PSG",
+    "name": "Paris saint-germain"
+  },
+  {
+    "tla": "LOSC",
+    "name": "Lille OSC"
+  },
+  {
+    "tla": "OL",
+    "name": "Olympique Lyon"
+  },
+  {
+    "tla": "OM",
+    "name": "Marseille"
+  },
+  {
+    "tla": "BVB",
+    "name": "Dortmund"
+  },
+  {
+    "tla": "FCB",
+    "name": "Bayern"
+  },
+  {
+    "tla": "FCB",
+    "name": "Barcelona"
+  },
+  {
+    "tla": "RMA",
+    "name": "Real Madrid"
+  },
+  {
+    "tla": "JUV",
+    "name": "Juve"
+  },
+  {
+    "tla": "ARS",
+    "name": "Arsenal"
+  },
+  {
+    "tla": "CHE",
+    "name": "Chelsea"
+  },
+  {
+    "tla": "LIV",
+    "name": "Liverpool"
+  },
+  {
+    "tla": "MCI",
+    "name": "Man City"
+  },
+  {
+    "tla": "MUN",
+    "name": "Man United"
+  },
+  {
+    "tla": "TOT",
+    "name": "Tottenham"
+  }
+]

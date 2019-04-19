@@ -1,0 +1,105 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.bar-chart {
+  margin-bottom: 45px;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  cursor: pointer;
+  filter: grayscale(25%);
+  transition: all ease-in-out 0.2s;
+}
+
+.bar:hover {
+  filter: grayscale(0);
+  filter: brightness(25%);
+}
+
+.axisx, .axisy {
+  font-size: 18px;
+}
+
+/* pie */
+.pie-chart {
+  margin-bottom: 45px;
+}
+
+.legend {
+  display: flex;
+}
+
+.labelpie {
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.colorlabel {
+  height: 15px;
+  width: 15px;
+  border-radius: 10px;
+}
+
+.textlabel {
+  margin-left: 10px;
+}
+
+.labelpie:nth-child(1) .colorlabel {
+  background-color: #6d3580;
+}
+
+.labelpie:nth-child(2) .colorlabel {
+  background-color: #cc4165;
+}
+
+.labelpie:nth-child(3) .colorlabel {
+  background-color: #e4734f;
+}
+
+.labelpie:nth-child(4) .colorlabel {
+  background-color: #ffe26f;
+}
+
+.labelpie:nth-child(5) .colorlabel {
+  background-color: #00a8b5;
+}
+
+.labelpie:nth-child(6) .colorlabel {
+  background-color: #de4383;
+}
+
+.arc {
+  cursor: pointer;
+  filter: grayscale(25%);
+  transition: all ease-in-out 0.2s;
+}
+
+.arc:hover {
+  filter: grayscale(0);
+  filter: brightness(25%);
+}
